@@ -1,0 +1,23 @@
+.xabar{
+    font-size: 40px;
+    width: 100%;
+    max-width: 900px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 300px;
+    margin-bottom: 400px;
+}
+
+.wrapper{
+    margin: 0 auto;
+}
+
+.video{
+    text-align: center;
+}
+
+.arrow{
+    width: 100px;
+    margin-left: 730px;
+    margin-top: -400px;
+}
